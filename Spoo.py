@@ -1,0 +1,3 @@
+import OS
+
+print('Spoooooooooooooo')
